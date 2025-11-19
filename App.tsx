@@ -74,7 +74,7 @@ function App() {
             </div>
             <div className="flex flex-col justify-center h-full pt-1">
               <span className="font-black text-xl tracking-tight text-[#EAECEF] leading-none group-hover:text-white transition-colors">
-                INS<span className="text-[#f7a600]">BIT</span>
+                INSTA<span className="text-[#f7a600]">ITEX</span>
               </span>
               <span className="text-[9px] font-bold tracking-[0.25em] text-gray-500 uppercase group-hover:text-[#f7a600] transition-colors">
                 Pro Exchange
